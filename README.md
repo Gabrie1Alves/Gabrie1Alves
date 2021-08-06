@@ -1,4 +1,6 @@
 ## Bem vindo! Eu sou o Gabriel
+🎯 Focused on studies <br>
+📚 Student at UFV
 
 <div>
   <a href="https://github.com/Gabrie1Alves">
