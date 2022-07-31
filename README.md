@@ -1,5 +1,5 @@
 ## Bem vindo! Eu sou o Gabriel
-🎯 Focused on studies <br>
+🎯 In search of learning! <br>
 📚 Student at UFV
 
 <div>
