@@ -1,6 +1,5 @@
 ## Bem vindo! Eu sou o Gabriel
 🎯 In search of learning! <br>
-📚 Student at UFV
 
 <div>
   <a href="https://github.com/Gabrie1Alves">
