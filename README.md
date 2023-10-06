@@ -1,5 +1,7 @@
 ## Bem vindo! Eu sou o Gabriel
 🎯 In search of learning! <br>
+🎯 Web developer <br>
+
 
 <div>
   <a href="https://github.com/Gabrie1Alves">
